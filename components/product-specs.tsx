@@ -3,43 +3,55 @@ export function ProductSpecs() {
     <section className="py-16 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">Quality Specifications</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">GSA Agrotech - Company Overview</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Our rice meets international quality standards with rigorous testing and quality control processes.
+            Leading rice supplier with comprehensive business approach and premium quality standards.
           </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-          <div className="text-center">
-            <div className="bg-primary text-primary-foreground w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold">99%</span>
+          <div className="text-center bg-card p-6 rounded-lg shadow-lg">
+            <div className="bg-green-600 text-white w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
+              <span className="text-sm font-bold">✓</span>
             </div>
-            <h3 className="font-semibold mb-2">Purity</h3>
-            <p className="text-sm text-muted-foreground">Minimum 99% purity guaranteed</p>
+            <h3 className="font-semibold mb-2">Quality First</h3>
+            <p className="text-sm text-muted-foreground">
+              We maintain the highest quality standards through rigorous testing, careful sourcing, and continuous
+              improvement of our processes. Your success depends on our quality.
+            </p>
           </div>
 
-          <div className="text-center">
-            <div className="bg-primary text-primary-foreground w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold">14%</span>
+          <div className="text-center bg-card p-6 rounded-lg shadow-lg">
+            <div className="bg-green-600 text-white w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
+              <span className="text-sm font-bold">$</span>
             </div>
-            <h3 className="font-semibold mb-2">Moisture</h3>
-            <p className="text-sm text-muted-foreground">Maximum 14% moisture content</p>
+            <h3 className="font-semibold mb-2">Partnership Approach</h3>
+            <p className="text-sm text-muted-foreground">
+              We don't just supply rice - we build lasting partnerships. Our team works closely with each client to
+              understand their unique needs and provide tailored solutions.
+            </p>
           </div>
 
-          <div className="text-center">
-            <div className="bg-primary text-primary-foreground w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold">6.8</span>
+          <div className="text-center bg-card p-6 rounded-lg shadow-lg">
+            <div className="bg-green-600 text-white w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
+              <span className="text-sm font-bold">🌱</span>
             </div>
-            <h3 className="font-semibold mb-2">Length</h3>
-            <p className="text-sm text-muted-foreground">Minimum 6.8mm grain length</p>
+            <h3 className="font-semibold mb-2">Sustainability</h3>
+            <p className="text-sm text-muted-foreground">
+              We are committed to sustainable practices that protect our environment and support farming communities,
+              ensuring a better future for generations to come.
+            </p>
           </div>
 
-          <div className="text-center">
-            <div className="bg-primary text-primary-foreground w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold">2%</span>
+          <div className="text-center bg-card p-6 rounded-lg shadow-lg">
+            <div className="bg-green-600 text-white w-16 h-16 rounded-lg flex items-center justify-center mx-auto mb-4">
+              <span className="text-sm font-bold">⚡</span>
             </div>
-            <h3 className="font-semibold mb-2">Broken</h3>
-            <p className="text-sm text-muted-foreground">Maximum 2% broken grains</p>
+            <h3 className="font-semibold mb-2">Innovation</h3>
+            <p className="text-sm text-muted-foreground">
+              We continuously invest in new technologies and processes to improve our products and services, staying
+              ahead of industry trends and customer needs.
+            </p>
           </div>
         </div>
       </div>

@@ -60,7 +60,7 @@ export function HeroSection() {
               <div className="text-sm text-primary-foreground/80">Years Experience</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-secondary">200+</div>
+              <div className="text-3xl md:text-4xl font-bold text-secondary">100+</div>
               <div className="text-sm text-primary-foreground/80">Business Partners</div>
             </div>
             <div className="text-center">

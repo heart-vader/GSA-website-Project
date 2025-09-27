@@ -1,4 +1,4 @@
-import { Brain as Grain, Shield, Truck, Award } from "lucide-react"
+import { Brain as Grain, Shield, Truck } from "lucide-react"
 
 export function RiceExpertise() {
   const expertise = [
@@ -17,11 +17,6 @@ export function RiceExpertise() {
       title: "Reliable Supply",
       description: "Consistent inventory management and timely delivery to meet your business needs",
     },
-    {
-      icon: Award,
-      title: "Export Excellence",
-      description: "Certified for international markets with proper documentation and compliance",
-    },
   ]
 
   return (
@@ -35,7 +30,7 @@ export function RiceExpertise() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {expertise.map((item, index) => (
             <div key={index} className="text-center space-y-4">
               <div className="w-16 h-16 bg-primary rounded-lg flex items-center justify-center mx-auto">
