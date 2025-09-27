@@ -14,7 +14,6 @@ const contactMethods = [
     icon: Mail,
     title: "Email",
     primary: "gsagrotech@outlook.com",
-    secondary: "quotes@gsagrotech.com",
     description: "Get detailed quotes within 24 hours",
   },
   {

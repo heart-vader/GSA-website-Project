@@ -18,7 +18,7 @@ export function ContactHero() {
             <div className="text-center">
               <Phone className="h-8 w-8 text-white mx-auto mb-3" />
               <div className="text-lg font-semibold">Call Us</div>
-              <div className="text-primary-foreground/80">+91 98765 43210</div>
+              <div className="text-primary-foreground/80">+91 93111 12106</div>
             </div>
             <div className="text-center">
               <Mail className="h-8 w-8 text-white mx-auto mb-3" />
