@@ -40,10 +40,13 @@ export function BrandShowcase() {
               DILLI HAAT
             </h3>
             <p className="text-muted-foreground mb-6 text-lg leading-relaxed">
-              Celebrating the rich heritage of Delhi with premium basmati rice varieties. Available in Diamond, Gold,
+              Celebrating the rich heritage of Delhi with premium basmati rice varieties. Available in Platinum, Diamond, Gold, Mogra 
               and Silver grades.
             </p>
             <div className="flex flex-wrap justify-center gap-3">
+              <span className="bg-gradient-to-r from-blue-100 to-blue-200 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-110 hover:shadow-lg cursor-pointer">
+                Platinum
+              </span>
               <span className="bg-gradient-to-r from-yellow-100 to-yellow-200 text-yellow-800 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-110 hover:shadow-lg cursor-pointer">
                 Diamond
               </span>
@@ -80,8 +83,8 @@ export function BrandShowcase() {
               KASHMIRI GATE
             </h3>
             <p className="text-muted-foreground mb-6 text-lg leading-relaxed">
-              Authentic Kashmiri quality with traditional processing methods. Available in Premium, Classic, and Royale
-              varieties.
+              Authentic 1121 Basmati quality with traditional processing methods. Available in Premium, Classic, Deluxe 
+              and Royale varieties.
             </p>
             <div className="flex flex-wrap justify-center gap-3">
               <span className="bg-gradient-to-r from-blue-100 to-blue-200 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-110 hover:shadow-lg cursor-pointer">
@@ -89,6 +92,9 @@ export function BrandShowcase() {
               </span>
               <span className="bg-gradient-to-r from-green-100 to-green-200 text-green-800 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-110 hover:shadow-lg cursor-pointer">
                 Classic
+              </span>
+              <span className="bg-gradient-to-r from-red-100 to-red-200 text-red-800 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-110 hover:shadow-lg cursor-pointer">
+                Deluxe
               </span>
               <span className="bg-gradient-to-r from-red-100 to-red-200 text-red-800 px-4 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:scale-110 hover:shadow-lg cursor-pointer">
                 Royale
