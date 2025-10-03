@@ -56,11 +56,11 @@ export function HeroSection() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 pt-16 max-w-3xl mx-auto animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-700">
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-secondary">15+</div>
+              <div className="text-3xl md:text-4xl font-bold text-secondary">10+</div>
               <div className="text-sm text-primary-foreground/80">Years Experience</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-secondary">100+</div>
+              <div className="text-3xl md:text-4xl font-bold text-secondary">60+</div>
               <div className="text-sm text-primary-foreground/80">Business Partners</div>
             </div>
             <div className="text-center">
