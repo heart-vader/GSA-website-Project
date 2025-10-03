@@ -23,7 +23,7 @@ export function ContactHero() {
             <div className="text-center">
               <Mail className="h-8 w-8 text-white mx-auto mb-3" />
               <div className="text-lg font-semibold">Email Us</div>
-              <div className="text-primary-foreground/80">info@gsagrotech.com</div>
+              <div className="text-primary-foreground/80">gsagrotech@outlook.com</div>
             </div>
             <div className="text-center">
               <MessageSquare className="h-8 w-8 text-white mx-auto mb-3" />
