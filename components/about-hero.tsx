@@ -13,7 +13,7 @@ export function AboutHero() {
               <span className="text-white/80 block">Basmati Rice Suppliers</span>
             </h1>
             <p className="text-xl leading-relaxed text-primary-foreground/90">
-              GS Agrotech has been delivering the finest quality basmati rice to discerning customers worldwide. Our
+              G S Agrotech has been delivering the finest quality basmati rice to discerning customers worldwide. Our
               commitment to excellence and rigorous quality standards ensure every grain meets the highest standards.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -36,7 +36,7 @@ export function AboutHero() {
 
           <div className="relative">
             <img
-              src="/premium-basmati-rice-fields-golden-harvest.jpg"
+              src="/clarkrice.jpg"
               alt="Premium basmati rice fields"
               className="rounded-lg shadow-2xl"
             />
