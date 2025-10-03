@@ -24,10 +24,10 @@ export function Footer() {
             </p>
             <div className="flex space-x-4">
               <Link href="#" className="text-primary-foreground/80 hover:text-secondary transition-colors">
-                <Facebook className="h-5 w-5" />
+                <Linkedin className="h-5 w-5" />
               </Link>
               <Link href="#" className="text-primary-foreground/80 hover:text-secondary transition-colors">
-                <Instagram className="h-5 w-5" />
+                <Twitter className="h-5 w-5" />
               </Link>
             </div>
           </div>
