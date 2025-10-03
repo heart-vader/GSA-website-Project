@@ -36,7 +36,7 @@ export function AboutHero() {
 
           <div className="relative">
             <img
-              src="/clarkrice.jpg"
+              src="/public/clarkrice.png"
               alt="Premium basmati rice fields"
               className="rounded-lg shadow-2xl"
             />
