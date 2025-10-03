@@ -16,18 +16,18 @@ export function Footer() {
                   className="h-8 w-8 object-contain brightness-0 invert"
                 />
               </div>
-              <h3 className="text-lg font-bold">GS Agrotech</h3>
+              <h3 className="text-lg font-bold">G S Agrotech</h3>
             </div>
             <p className="text-sm text-primary-foreground/80">
               Leading supplier of premium basmati rice varieties with decades of experience in quality sourcing,
-              processing, and distribution across India and international markets.
+              processing, and distribution across Indian market.
             </p>
             <div className="flex space-x-4">
               <Link href="#" className="text-primary-foreground/80 hover:text-secondary transition-colors">
-                <Linkedin className="h-5 w-5" />
+                <Facebook className="h-5 w-5" />
               </Link>
               <Link href="#" className="text-primary-foreground/80 hover:text-secondary transition-colors">
-                <Twitter className="h-5 w-5" />
+                <Instagram className="h-5 w-5" />
               </Link>
             </div>
           </div>
@@ -105,23 +105,19 @@ export function Footer() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="h-4 w-4 flex-shrink-0" />
-                  <span>+91 9470602877</span>
-                </div>
-                <div className="flex items-center space-x-3">
-                  <Phone className="h-4 w-4 flex-shrink-0" />
                   <span>+91 9999421399</span>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <span>info@gsagro.co.in</span>
+                <span>gsagrotech@outlook.com</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm text-primary-foreground/80">
-          <p>&copy; 2024 GS Agrotech. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2024 GS Agrotech. All rights reserved. </p>
         </div>
       </div>
     </footer>
