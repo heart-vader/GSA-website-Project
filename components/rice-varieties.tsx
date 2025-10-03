@@ -5,18 +5,18 @@ import Link from "next/link"
 export function RiceVarieties() {
   const varieties = [
     {
-      name: "DILLI HAAT Platinum Basmati Rice",
+      name: "DILLI HAAT Diamond Basmati Rice",
       image: "/dilli-haat-diamond.jpg",
       description:
         "Premium quality basmati rice with exceptional aroma and long grains, featuring traditional Delhi heritage",
-      features: ["Extra long grain", "Premium quality", "Traditional Delhi heritage", "26kg packaging"],
+      features: ["Medium grain", "Premium quality", "Traditional Delhi heritage", "26kg packaging"],
       price: "Contact for pricing",
       brand: "DILLI HAAT",
       rating: 5,
       popular: true,
     },
     {
-      name: "KASHMIRI GATE Deluxe Premium Basmati Rice",
+      name: "KASHMIRI GATE Premium Basmati Rice",
       image: "/kashmiri-gate-premium.jpg",
       description: "Luxurious basmati rice with authentic Kashmiri quality and ornate packaging design",
       features: ["Premium grade", "Kashmiri quality", "Ornate packaging", "26kg packaging"],
@@ -26,16 +26,16 @@ export function RiceVarieties() {
       popular: true,
     },
     {
-      name: "DILLI HAAT Diamond Basmati Rice",
+      name: "DILLI HAAT Gold Basmati Rice",
       image: "/dilli-haat-gold.jpg",
-      description: "High-quality basmati rice with rich aroma and perfect texture for special occasions",
+      description: "Everyday/Rozana basmati rice with rich aroma and perfect texture for everday use",
       features: ["Diamond grade quality", "Rich aroma", "Perfect texture", "26kg packaging"],
       price: "Contact for pricing",
       brand: "DILLI HAAT",
       rating: 4,
     },
     {
-      name: "DILLI HAAT Gold Basmati Rice",
+      name: "DILLI HAAT Silver Basmati Rice",
       image: "/dilli-haat-silver.jpg",
       description: "Quality basmati rice with consistent grain length and natural fragrance",
       features: ["Gold grade", "Consistent grains", "Natural fragrance", "26kg packaging"],
@@ -44,16 +44,16 @@ export function RiceVarieties() {
       rating: 4,
     },
     {
-      name: "DILLI HAAT Silver Basmati Rice",
+      name: "KASHMIRI GATE Classic Basmati Rice",
       image: "/kashmiri-gate-classic.jpg",
       description: "Classic basmati variety with traditional processing and authentic taste",
       features: ["Silver variety", "Traditional processing", "Authentic taste", "26kg packaging"],
       price: "Contact for pricing",
       brand: "DILLI HAAT",
-      rating: 4,
+      rating: 4.5,
     },
     {
-      name: "DILLI HAAT Mogra Basmati Rice",
+      name: "KASHMIRI GATE Royale Basmati Rice",
       image: "/kashmiri-gate-royale.jpg",
       description: "Aromatic basmati rice with premium grading and traditional packaging",
       features: ["Mogra quality", "Premium grading", "Traditional packaging", "26kg packaging"],
@@ -74,7 +74,7 @@ export function RiceVarieties() {
             Our Premium Rice Collection
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Discover our authentic basmati rice varieties from two prestigious brands - DILLI HAAT and KASHMIRI GATE,
+            Discover our authentic basmati rice varieties from prestigious brands - DILLI HAAT, KASHMIRI GATE and THE CHAIRMAN™,
             each offering exceptional quality and traditional flavors.
           </p>
         </div>
