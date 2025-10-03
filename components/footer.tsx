@@ -11,7 +11,7 @@ export function Footer() {
             <div className="flex items-center space-x-3">
               <div className="h-10 w-10 flex items-center justify-center">
                 <img
-                  src="/gsa-logo.png"
+                  src="/gsa-logo-new.jpg"
                   alt="GS Agrotech Logo"
                   className="h-8 w-8 object-contain brightness-0 invert"
                 />
