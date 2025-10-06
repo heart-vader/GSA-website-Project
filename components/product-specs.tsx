@@ -3,9 +3,9 @@ export function ProductSpecs() {
     <section className="py-16 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">GSA Agrotech - Company Overview</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">G S Agrotech - Company's Mission</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Leading rice supplier with comprehensive business approach and premium quality standards.
+            Empowering businesses with premium rice solutions that drive success through our comprehensive business approach and premium quality standards.
           </p>
         </div>
 
